@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Andrei 👋
 
-<!--
-**andreiiaroi1/andreiiaroi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **1º de ASIR** 🖥️ en [IES Lope de Vega / Madrid]. Me estoy formando como administrador de sistemas y **busco prácticas (FCT) para 2027**.
 
-Here are some ideas to get you started:
+## 🔧 Qué estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux (Debian/Ubuntu) y Windows Server
+- Scripting con Bash y PowerShell
+- Redes: direccionamiento IP, DHCP, DNS
+- Virtualización con [VirtualBox / VMware / Proxmox]
+
+## 📂 Mis proyectos
+
+
+## 🛠️ Tecnologías
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+## 📫 Contacto
+
+- LinkedIn: [tu enlace]
+- Email: [tu correo]
