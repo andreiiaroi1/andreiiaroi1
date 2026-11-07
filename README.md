@@ -21,5 +21,5 @@ Estudiante de **1º de ASIR** 🖥️ en [IES Lope de Vega / Madrid]. Me estoy f
 
 ## 📫 Contacto
 
-- LinkedIn: [tu enlace]
-- Email: [tu correo]
+- LinkedIn: https://www.linkedin.com/in/andrei-iaroi/
+- Email: [andreiiaroi1@gmail.com]
