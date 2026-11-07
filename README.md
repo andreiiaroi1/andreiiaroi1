@@ -11,6 +11,7 @@ Estudiante de **1º de ASIR** 🖥️ en [IES Lope de Vega / Madrid]. Me estoy f
 
 ## 📂 Mis proyectos
 
+- [**IBin**](https://github.com/andreiiaroi1/IBin): papelera inteligente IoT (TFG de SMR) con ESP32, sensores PIR y ultrasonidos, apertura sin contacto y supervisión remota desde Blynk. Programada en C++ (Arduino).
 
 ## 🛠️ Tecnologías
 
