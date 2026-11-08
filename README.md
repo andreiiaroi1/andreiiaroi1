@@ -7,7 +7,7 @@ Estudiante de **1º de ASIR** 🖥️ en [IES Lope de Vega / Madrid]. Me estoy f
 - Linux (Debian/Ubuntu) y Windows Server
 - Scripting con Bash y PowerShell
 - Redes: direccionamiento IP, DHCP, DNS
-- Virtualización con [VirtualBox / VMware / Proxmox]
+- Virtualización con [VirtualBox / VMware ]
 
 ## 📂 Mis proyectos
 
